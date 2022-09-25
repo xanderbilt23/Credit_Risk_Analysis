@@ -12,9 +12,9 @@ Used imbalanced-learn and scikit-learn libraries to build and evaluate models us
 - High risk precision is low at 1% with a recall of 72% recall
 - Low risk precision is 100% with a recall of 60%
 
-![Naive_Random_Oversampling]()
+![Naive_Random_Oversampling](https://github.com/xanderbilt23/Credit_Risk_Analysis/blob/main/Images/Naive_Random_Oversampling.png)
 
-![Naive_Random_Oversampling_Pre]()
+![Naive_Random_Oversampling_Pre](https://github.com/xanderbilt23/Credit_Risk_Analysis/blob/main/Images/Naive_Random_Oversampling_pre.png)
 
 # SMOTE Oversampling
 
@@ -22,9 +22,9 @@ Used imbalanced-learn and scikit-learn libraries to build and evaluate models us
 - High risk precision is low at 1% with a recall of 61% recall
 - Low risk precision is 100% with a recall of 70%
 
-![SMOTE_Oversampling]()
+![SMOTE_Oversampling](https://github.com/xanderbilt23/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Oversampling.png)
 
-![SMOTE_Oversampling_pre]()
+![SMOTE_Oversampling_pre](https://github.com/xanderbilt23/Credit_Risk_Analysis/blob/main/Images/SMOTE%20Oversampling_pre.png)
 
 # Undersampling with ClusterCentroids resampler
 
@@ -32,8 +32,8 @@ Used imbalanced-learn and scikit-learn libraries to build and evaluate models us
 - High risk precision is low at 1% with a recall of 69% recall
 - Low risk precision is 100% with a recall of 40%
 
-![ClusterCentroids]()
-![ClusterCentroids_pre] ()
+![ClusterCentroids](https://github.com/xanderbilt23/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids.png)
+![ClusterCentroids_pre](https://github.com/xanderbilt23/Credit_Risk_Analysis/blob/main/Images/ClusterCentroids_pre.png)
 
 # Combination (Over and Under) Sampling
 
@@ -41,8 +41,8 @@ Used imbalanced-learn and scikit-learn libraries to build and evaluate models us
 - High risk precision is low at 1% with a recall of 72% recall
 - Low risk precision is 100% with a recall of 57%
 
-![Over_and_Under]()
-![Over_and_Under_pre]()
+![Over_and_Under](https://github.com/xanderbilt23/Credit_Risk_Analysis/blob/main/Images/Over%20and%20Under.png)
+![Over_and_Under_pre](https://github.com/xanderbilt23/Credit_Risk_Analysis/blob/main/Images/Over%20and%20Under_pre.png)
 
 # Balanced Random Forest Classifier
 
@@ -50,8 +50,8 @@ Used imbalanced-learn and scikit-learn libraries to build and evaluate models us
 - High risk precision is low at 3% with a recall of 65% recall
 - Low risk precision is 100% with a recall of 89%
 
-![Random Forest]()
-![Random Forest_pre]()
+![Random Forest](https://github.com/xanderbilt23/Credit_Risk_Analysis/blob/main/Images/Balanced%20Random%20Forest%20Classifier.png)
+![Random Forest_pre](https://github.com/xanderbilt23/Credit_Risk_Analysis/blob/main/Images/Balanced%20Random%20Forest%20Classifier_pre.png)
 
 # Easy Ensemble AdaBoost Classifier
 
@@ -59,8 +59,8 @@ Used imbalanced-learn and scikit-learn libraries to build and evaluate models us
 - High risk precision is low at 9% with a recall of 92% recall
 - Low risk precision is 100% with a recall of 94%
 
-![Ensemble AdaBoost]()
-![Ensemble AdaBoost_pre]()
+![Ensemble AdaBoost](https://github.com/xanderbilt23/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier.png)
+![Ensemble AdaBoost_pre](https://github.com/xanderbilt23/Credit_Risk_Analysis/blob/main/Images/Easy%20Ensemble%20AdaBoost%20Classifier_pre.png)
 
 ## Summary 
 
